@@ -19,7 +19,7 @@
 
 ###CLEAR CHANNEL RADIO DIGITAL
 ####FRONT END WEB DEVELOPER
-**NY, NEW YORK – 2009-2011**
+**NEW YORK, NY – 2009-2011**
 Developed client side “Local” and “National” platform modules, widgets, and templates for iHeartRadio.Allowing local radio station websites to generate custom CSS colors, station font headers w/@font-face while keeping the continuity of the iHeartRadio network UI intact. 
 
 ###FREELANCE
