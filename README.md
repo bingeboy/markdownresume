@@ -10,13 +10,13 @@
 ##Experience
 ###CONDE NAST
 ####SENIOR ENGINEER
-**NEW YORK, NY – 2014-PRESENT
+**NEW YORK, NY – 2014-PRESENT**
 * Help create and mantain a platform for all brands in Reactjs
 * Core developer for Golfdigest.com, GQ.com, teenvogue.com
 
 ###VICTORIA'S SECRET
 ####SENIOR FRONT END DEVELOPER
-**NEW YORK, NY – 2011-2014
+**NEW YORK, NY – 2011-2014**
 * Core team member of VS flagship eCommerce site.  Developer of Victoria's Secret first in house mobile website.
 * Contributor to our own "Mediator Pubsub JavaScript Framework" Actively working in LeanUX Agile team, first of its kind at the company.
 
