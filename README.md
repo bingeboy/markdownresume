@@ -8,9 +8,15 @@
 * Actively contributing to the Open source community.
 
 ##Experience
+###CONDE NAST
+####SENIOR ENGINEER
+**NEW YORK, NY – 2014-PRESENT
+* Help create and mantain a platform for all brands in Reactjs
+* Core developer for Golfdigest.com, GQ.com, teenvogue.com
+
 ###VICTORIA'S SECRET
 ####SENIOR FRONT END DEVELOPER
-**NEW YORK, NY – 2011-PRESENT**
+**NEW YORK, NY – 2011-2014
 * Core team member of VS flagship eCommerce site.  Developer of Victoria's Secret first in house mobile website.
 * Contributor to our own "Mediator Pubsub JavaScript Framework" Actively working in LeanUX Agile team, first of its kind at the company.
 
@@ -34,18 +40,16 @@ Supervised and partook in all Front-end development/creative mock-ups. Directed 
  *ex:LandRover to create engaging micro-sites and rich media campaigns.*
  
 ##Skills
-**Expertise:** HTML5, CSS3, SCSS, Responsive Design, JavaScript, JSON, JSONP, MVC Patterns, OOP, LAMP, Agile, VIM, REST APIs, XHR. LeanUX, GIT, SVN, Code Optimization, CLI.
+**Expertise:** HTML5, CSS3, SCSS, Responsive/Adaptive Design, JavaScript, Nodejs, Reactjs, JSON, JSONP, MV* Patterns, OOP, LAMP, REST APIs, XHR. LeanUX, GIT, Code Optimization, CLI.
 
-**Competence:** Nodejs, MongoDB, Adobe CS Suite, PHP, Fatwire.
-
-**Understanding of:** Redis, Polling/comet, WS://, Elasticsearch 
+**Competence:** MongoDB, Adobe CS Suite, PHP.
 
 ##Goal
 Working as a core team member in a stake holding position where the culture focuses on innovation, iteration, and the customer first. 
 
 
 
-© 2014 JPMcGarrity.com
+© 2015 JPMcGarrity.com
 
 All Rights Reserved.
 
