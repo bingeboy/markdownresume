@@ -11,8 +11,8 @@
 ### CONDE NAST
 #### SENIOR ENGINEER
 ** NEW YORK, NY – 2014-PRESENT**
-* Help create and mantain a platform for all brands in Reactjs
-* Core developer for Golfdigest.com, GQ.com, teenvogue.com
+* Created reusable shared React components that were shared across 20+ brand apps.
+* Core developer for Golfdigest.com, GQ.com, teenvogue.com, architecturaldigest.com, etc
 
 ### VICTORIA'S SECRET
 #### SENIOR FRONT END DEVELOPER
