@@ -7,9 +7,9 @@
 * Proactive self-starter with track record of initiative, taking personal responsibility for ownership of work and reputation for removing roadblocks.
 * Actively contributing to the Open source community.
 
-##Experience
-###CONDE NAST
-####SENIOR ENGINEER
+## Experience
+### CONDE NAST
+#### SENIOR ENGINEER
 ** NEW YORK, NY – 2014-PRESENT**
 * Help create and mantain a platform for all brands in Reactjs
 * Core developer for Golfdigest.com, GQ.com, teenvogue.com
